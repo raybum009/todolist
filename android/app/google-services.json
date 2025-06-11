@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891461489081",
+    "project_id": "dino-9cf72",
+    "storage_bucket": "dino-9cf72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891461489081:android:5ae9939afdcd8af28f2668",
+        "android_client_info": {
+          "package_name": "com.example.apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Q-d2F2MNiJFMg5_D_3GfT8c0owQImew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
